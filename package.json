@@ -1,0 +1,12 @@
+{
+  "name": "cryptopunk.band",
+  "version": "0.0.1",
+  "description": "Punk bands (for CryptoPunks)",
+  "main": "index.js",
+  "repository": "git@github.com:EmblemStudio/cryptopunk.band.git",
+  "author": "Jesse B. Miller <jesse@jessebmiller.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "hardhat": "^2.6.4"
+  }
+}
